@@ -1,0 +1,13 @@
+#barra{
+    background-color: #57BA57;
+    width: 0%;
+    height: 30px;
+    border-radius: 10px;
+  }
+  
+  #contenedor{
+    height: 30px;
+    width: 200px;
+    border: 2px solid black;
+    border-radius: 10px;
+  }

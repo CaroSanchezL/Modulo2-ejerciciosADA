@@ -1,0 +1,9 @@
+body {
+    font-family: Poppins;
+}
+
+span{
+    display:inline-block;
+    background-color: #9b9b9b;
+    margin: 15px;
+}
