@@ -1,0 +1,12 @@
+.verde {
+    background-color: rgb(0, 255, 0);
+}
+
+.rojo {
+    background-color: rgb(255, 0, 0);
+}
+
+.button {
+    display: block;
+    margin: 5px;
+}
